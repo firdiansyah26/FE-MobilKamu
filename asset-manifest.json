@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/FE-MobilKamu/static/css/main.c6227f5b.chunk.css",
+    "main.js": "/FE-MobilKamu/static/js/main.8936691e.chunk.js",
+    "main.js.map": "/FE-MobilKamu/static/js/main.8936691e.chunk.js.map",
+    "runtime~main.js": "/FE-MobilKamu/static/js/runtime~main.66dcb0f6.js",
+    "runtime~main.js.map": "/FE-MobilKamu/static/js/runtime~main.66dcb0f6.js.map",
+    "static/css/2.6f30f3be.chunk.css": "/FE-MobilKamu/static/css/2.6f30f3be.chunk.css",
+    "static/js/2.35442737.chunk.js": "/FE-MobilKamu/static/js/2.35442737.chunk.js",
+    "static/js/2.35442737.chunk.js.map": "/FE-MobilKamu/static/js/2.35442737.chunk.js.map",
+    "index.html": "/FE-MobilKamu/index.html",
+    "precache-manifest.60a392e70545017ab8a09bd49820e730.js": "/FE-MobilKamu/precache-manifest.60a392e70545017ab8a09bd49820e730.js",
+    "service-worker.js": "/FE-MobilKamu/service-worker.js",
+    "static/css/2.6f30f3be.chunk.css.map": "/FE-MobilKamu/static/css/2.6f30f3be.chunk.css.map",
+    "static/css/main.c6227f5b.chunk.css.map": "/FE-MobilKamu/static/css/main.c6227f5b.chunk.css.map",
+    "static/media/logo.svg": "/FE-MobilKamu/static/media/logo.5d5d9eef.svg"
+  }
+}
