@@ -5,7 +5,7 @@
   "homepage": "",
   "dependencies": {
     "antd": "^3.20.1",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "block-ui": "^2.70.1",
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.0.1",
